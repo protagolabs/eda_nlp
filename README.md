@@ -89,5 +89,5 @@ The code is not documented, but is [here](https://github.com/jasonwei20/eda_nlp/
 
 # Original Implementation
 
-https://github.com/jasonwei20/eda_nlp![image](https://user-images.githubusercontent.com/34095469/154400456-d4c31862-49e3-4a4f-beb7-1757292e5d8f.png)
+https://github.com/jasonwei20/eda_nlp
 
